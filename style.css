@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Manrope:wght@200..800&display=swap");
+
+:root {
+  /* ### Primary */
+
+  --Blue-200: hsl(193, 38%, 86%);
+  --Green-300: hsl(150, 100%, 66%);
+
+  /* ### Neutral */
+
+  --Blue-600: hsl(217, 19%, 38%);
+  --Blue-900: hsl(217, 19%, 24%);
+  --Blue-950: hsl(218, 23%, 16%);
+}
+body{
+    font-family: "manrope", sans-serif;
+}
