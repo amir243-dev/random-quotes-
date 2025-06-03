@@ -26,4 +26,4 @@ button.addEventListener("click", () => {
 });
 setTimeout(() => {
   adviceData();
-}, 2000);
+}, 1000);
